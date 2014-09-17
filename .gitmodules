@@ -1,0 +1,12 @@
+[submodule "RepoCore"]
+	path = RepoCore
+	url = git@github.com:iRobinTestOrg/RepoCore.git
+[submodule "RepoPartA"]
+	path = RepoPartA
+	url = git@github.com:iRobinTestOrg/RepoPartA.git
+[submodule "RepoPartB"]
+	path = RepoPartB
+	url = git@github.com:iRobinTestOrg/RepoPartB.git
+[submodule "RepoPartC"]
+	path = RepoPartC
+	url = git@github.com:iRobinTestOrg/RepoPartC.git
